@@ -1,0 +1,6 @@
+{
+  "name": "Tunnel Vision",
+  "description": "A high-fidelity operational model and interactive dashboard for car wash facilities, featuring equipment schematics, predictive AI recommendations, and an integrated inventory update workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
